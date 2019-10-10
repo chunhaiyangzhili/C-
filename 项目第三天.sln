@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List泛型集合练习", "项目第三天\List泛型集合练习.csproj", "{ED5979AD-FDBF-40E6-AEBF-161C23FB6C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "键值对集合练习1", "键值对集合练习1\键值对集合练习1.csproj", "{97001701-5152-4928-8714-E06DA46FFCD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5加密", "MD5加密\MD5加密.csproj", "{8F4C965F-CB1C-4DA0-9678-2559DDD24E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED5979AD-FDBF-40E6-AEBF-161C23FB6C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5979AD-FDBF-40E6-AEBF-161C23FB6C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5979AD-FDBF-40E6-AEBF-161C23FB6C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5979AD-FDBF-40E6-AEBF-161C23FB6C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97001701-5152-4928-8714-E06DA46FFCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97001701-5152-4928-8714-E06DA46FFCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97001701-5152-4928-8714-E06DA46FFCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97001701-5152-4928-8714-E06DA46FFCD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F4C965F-CB1C-4DA0-9678-2559DDD24E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4C965F-CB1C-4DA0-9678-2559DDD24E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4C965F-CB1C-4DA0-9678-2559DDD24E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4C965F-CB1C-4DA0-9678-2559DDD24E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A8E5312-2EA3-4C05-B5D6-4B4CD4B93F71}
+	EndGlobalSection
+EndGlobal
