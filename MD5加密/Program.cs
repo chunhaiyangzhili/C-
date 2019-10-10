@@ -11,7 +11,7 @@ namespace MD5加密
     {
         static void Main(string[] args)
         {
-            string str = "12221111";
+            string str = "00009";
             string md5Str = GetMd5(str);
             Console.WriteLine(md5Str);
             Console.ReadKey();
